@@ -2,42 +2,79 @@
 ---
 Here are repo's of assembly labs in Program Design and Programming Languages(part 2)
 I hope you'll find here your version.
-+ [1](https://github.com/AnjeyNov/.asm)
-2. https://github.com/nastazys/ASM
-3. https://github.com/y-harkavik/asm
-4. https://github.com/nikkonrom/assemblypain
-5. https://github.com/ViachaslauPratasenia/asm
-6. https://github.com/valerycadovic/Assembly_Labs
-7. https://github.com/SBavia/asm
-8. https://github.com/NasterVill/BSUIR_Labs
-9. https://github.com/DaniilPshenichny/Assembler
-10. https://github.com/Vavashka23/AssemblyLabs
-11. https://github.com/peekhovsky/asm-labs-2018
-12. https://github.com/EugeneKorenik/Assembler_labs
-13. https://github.com/T1mofi/Assembler
-14. https://github.com/RSlabodchikov/computer-programming-and-programming-languages
-15. https://github.com/Bulbash3r/Assembly-Labs
-16. https://github.com/CharleyCattac/ASM-labs
-17. https://github.com/BrushkouMatvey/ASM
-18. https://github.com/glestorn/Assembler
-19. https://github.com/rokez98/Assembly-Labs
-20. https://github.com/Ilyshka991/Unik-4th-term
-21. https://github.com/Arcimiendar/MY-LABORATORY
+1. [AnjeyNov](https://github.com/AnjeyNov/.asm)
+2. [nastazys](https://github.com/nastazys/ASM)
+3. [y-harkavik](https://github.com/y-harkavik/asm)
+4. [nikkonrom](https://github.com/nikkonrom/assemblypain)
+5. [ViachaslauPratasenia](https://github.com/ViachaslauPratasenia/asm)
+6. [valerycadovic](https://github.com/valerycadovic/Assembly_Labs)
+7. [SBavia](https://github.com/SBavia/asm)
+8. [NasterVill](https://github.com/NasterVill/BSUIR_Labs)
+9. [DaniilPshenichny](https://github.com/DaniilPshenichny/Assembler)
+10. [Vavashka23](https://github.com/Vavashka23/AssemblyLabs)
+11. [peekhovsky](https://github.com/peekhovsky/asm-labs-2018)
+12. [EugeneKorenik](https://github.com/EugeneKorenik/Assembler_labs)
+13. [T1mofi](https://github.com/T1mofi/Assembler)
+14. [RSlabodchikov](https://github.com/RSlabodchikov/computer-programming-and-programming-languages)
+15. [Bulbash3r](https://github.com/Bulbash3r/Assembly-Labs)
+16. [CharleyCattac](https://github.com/CharleyCattac/ASM-labs)
+17. [BrushkouMatvey](https://github.com/BrushkouMatvey/ASM)
+18. [glestorn](https://github.com/glestorn/Assembler)
+19. [rokez98](https://github.com/rokez98/Assembly-Labs)
+20. [Ilyshka991](https://github.com/Ilyshka991/Unik-4th-term)
+21. [Arcimiendar](https://github.com/Arcimiendar/MY-LABORATORY)
+22. [VladLinkevich](https://github.com/VladLinkevich/Assembly)
 
 Here are my classmates' repo's:
 
-22. https://github.com/ilia-ziankevich/Assembler/
-23. https://github.com/smatskevich-bsuir/asm-file
-24. https://github.com/smatskevich-bsuir/asm-minesweeper
-25. https://github.com/BodunOk/Assembler
-26. https://github.com/neonic1/asmLabs
-27. https://github.com/imperator1440/asm_labs/
-28. https://github.com/KriisWhy/asmLabs
-29. https://github.com/zloi-patrick/ASM-Lab4
-30. https://github.com/tsyrogalina/Asm
-31. https://github.com/VVaccount/X
-32. https://bitbucket.org/hannaWar/lab5asm/downloads/
-33. https://github.com/an7on1001/asm_lab5/
-34. https://github.com/an7on1001/asm_lab4
-35. https://bitbucket.org/dk_khmurovich/asm-labs/src/master/
-36. https://github.com/EugeneHryz/asm
+22. [ilia-ziankevich](https://github.com/ilia-ziankevich/Assembler)
+23. [smatskevich](https://github.com/smatskevich-bsuir/asm-file)
+24. [smatskevich 4](https://github.com/smatskevich-bsuir/asm-minesweeper)
+25. [BodunOk](https://github.com/BodunOk/Assembler)
+26. [neonic1](https://github.com/neonic1/asmLabs)
+27. [imperator1440 5](https://github.com/imperator1440/asm_labs)
+28. [KriisWhy](https://github.com/KriisWhy/asmLabs)
+29. [zloi-patrick 4](https://github.com/zloi-patrick/ASM-Lab4)
+30. [tsyrogalina](https://github.com/tsyrogalina/Asm)
+31. [VVaccount 4](https://github.com/VVaccount/X)
+32. [hannaWar 5](https://bitbucket.org/hannaWar/lab5asm/downloads)
+33. [an7on1001 4](https://github.com/an7on1001/asm_lab4)
+34. [an7on1001 5](https://github.com/an7on1001/asm_lab5)
+35. [an7on1001 7](https://github.com/an7on1001/asm7)
+36. [dk_khmurovich](https://bitbucket.org/dk_khmurovich/asm-labs/src/master)
+37. [EugeneHryz](https://github.com/EugeneHryz/asm)
+38. [AndreyPolekov](https://github.com/AndreyPolekov/Asm)
+39. [smatskevich](https://github.com/smatskevich-bsuir/asm-polish)
+40. [ZeusSOA](https://github.com/ZeusSOA/ASM)
+41. [OserOl 4](https://github.com/OserOl/4laba)
+42. [RuslanPlusPlus](https://github.com/RuslanPlusPlus/Tanchiks)
+and other:
+43. [antonkreis 4](https://github.com/antonkreis/lab4-pacman)
+44. [Sp00nyMan 4](https://github.com/Sp00nyMan/ASM-LAB4)
+45. [IvanZubarevich](https://github.com/IvanZubarevich/ASM)
+46. [darmnn](https://github.com/darmnn/asm-labs)
+47. [NikitaKuzmichenko 3](https://github.com/NikitaKuzmichenko/lab_3_asm)
+48. [kazlik0310](https://github.com/kazlik0310/KPIYAP)
+49. [albaSANDROS 4](https://github.com/albaSANDROS/asm_lab4)
+50. [kpkq 5](https://github.com/kpkq/asm/tree/master/laba5)
+51. [Zakhar00 4](https://github.com/Zakhar00/The-Game-Tanks-)
+52. [b2rry](https://github.com/b2rry/Asm)
+53. [vectordiman 4](https://github.com/vectordiman/lab4_mario)
+54. [GoRunMaxim](https://github.com/GoRunMaxim/kpiyap)
+55. [APridy](https://github.com/APridy/KPYAP)
+57. [Vorobeyyyyyy 4](https://github.com/Vorobeyyyyyy/Arcanoid/tree/master)
+58. [valeronpCom](https://github.com/valeronpCom/Assembly)
+59. [DanPetrov1](https://github.com/DanPetrov1/Forth-semester)
+60. [Hael13](https://github.com/Hael13/KPIYaP)
+61. [Konstantsiy](https://github.com/Konstantsiy/Labc_Assembly)
+62. [twinpixxx](https://github.com/twinpixxx/asm)
+63. [edelwud](https://github.com/edelwud/KPiYP)
+64. [sever7788](https://github.com/sever7788/ASM)
+65. [SergeiTaras](https://github.com/SergeiTaras/ASM-labs)
+66. [ak0n1te](https://github.com/ak0n1te/ASM)
+67. [dzmitryZhuk 3](https://github.com/dzmitryZhuk/ASM_3_laba)
+68. [LevKostychenko 3](https://github.com/LevKostychenko/Lab3.Assembly)
+69. [desomorta](https://github.com/desomorta/Assembly-Labs)
+70. [OserOl 4](https://github.com/OserOl/4laba)
+71. [dk_khmurovich](https://bitbucket.org/dk_khmurovich/asm-labs)
+72. [imperator1440](https://github.com/imperator1440/asm_labs)
