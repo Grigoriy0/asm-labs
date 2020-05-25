@@ -2,6 +2,12 @@
 ---
 Here are repo's of assembly labs in Program Design and Programming Languages(part 2)
 I hope you'll find here your version.
+#### в первую очередь:
+![Котёнок для привлечения внимания](https://images.vcene.com/images/items/12473/type2/16113257.jpg)
+#### помните:
+- огромная благодарность людям из списка за публичность своего труда
+- репозиторий предназначен для студентов ВМСиС и всех, кому могут приходиться labs по асику
+- некоторые ссылки могут быть нерабочими
 1. [AnjeyNov](https://github.com/AnjeyNov/.asm)
 2. [nastazys](https://github.com/nastazys/ASM)
 3. [y-harkavik](https://github.com/y-harkavik/asm)
@@ -25,8 +31,6 @@ I hope you'll find here your version.
 21. [Arcimiendar](https://github.com/Arcimiendar/MY-LABORATORY)
 22. [VladLinkevich](https://github.com/VladLinkevich/Assembly)
 
-Here are my classmates' repo's:
-
 23. [ilia-ziankevich](https://github.com/ilia-ziankevich/Assembler)
 24. smatskevich[?](https://github.com/smatskevich-bsuir/asm-file) [4](https://github.com/smatskevich-bsuir/asm-minesweeper) [?](https://github.com/smatskevich-bsuir/asm-screensaver) [?](https://github.com/smatskevich-bsuir/asm-overlay) [?](https://github.com/smatskevich-bsuir/asm-polish)
 25. [BodunOk](https://github.com/BodunOk/Assembler)
@@ -47,9 +51,7 @@ Here are my classmates' repo's:
 40. [desomorta](https://github.com/desomorta/Assembly-Labs)
 41. [Maxerum](https://github.com/Maxerum/asm)
 
-and other:
-
-42.  antonkreis [4](https://github.com/antonkreis/lab4-pacman)
+42. antonkreis [4](https://github.com/antonkreis/lab4-pacman)
 43. Sp00nyMan [4](https://github.com/Sp00nyMan/ASM-LAB4) [7](https://github.com/Sp00nyMan/ASM-LAB7)
 44. [IvanZubarevich](https://github.com/IvanZubarevich/ASM)
 45. [darmnn](https://github.com/darmnn/asm-labs)
