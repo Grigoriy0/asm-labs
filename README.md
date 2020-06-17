@@ -2,9 +2,16 @@
 ---
 Here are repo's of assembly labs in Program Design and Programming Languages(part 2)
 I hope you'll find here your version.
-#### в первую очередь:
-![Котёнок для привлечения внимания](https://images.vcene.com/images/items/12473/type2/16113257.jpg)
+<details>
+<summary>в первую очередь:</summary>
+  
+- [![Котёнок для привлечения внимания][1]][2]
 
+[1]:  https://images.vcene.com/images/items/12473/type2/16113257.jpg
+[2]:  https://www.youtube.com/watch?v=rhUSXegw6NY
+</details>
+
+#### после:
 - огромная благодарность людям из списка за публичность своего труда
 - репозиторий предназначен для студентов ВМСиС и всех, кому могут приходиться labs по асику
 - некоторые ссылки могут быть нерабочими
