@@ -134,7 +134,7 @@ I hope you'll find here your version.
 114. AlekseiPotapovich [2](https://github.com/AlekseiPotapovich/ASM_Lab2)
 115. Sirovich [2](https://github.com/Sirovich/i61)
 116. [Egor1337228](https://github.com/Egor1337228/Egor_delaet_-asm)
-117. perekatypola [8](https://github.com/perekatypola/asm-8lab)
+117. perekatypola [4,5,7](https://github.com/perekatypola/asm-labs)[8](https://github.com/perekatypola/asm-8lab)
 118. pflxxxmo [8](https://github.com/pflxxxmo/asm_lab_8)
 119. [Pokemon3108](https://github.com/Pokemon3108/Kpiyap_asm)
 120. [alkaptur19](https://github.com/alkaptur19/Programming-Design-and-Programming-Languages-Assembly)
